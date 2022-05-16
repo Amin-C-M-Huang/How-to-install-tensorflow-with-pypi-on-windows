@@ -133,7 +133,7 @@ You will get a success response, which means you have successfully installed.
 <div class="highlight-doscon notranslate"><div class="highlight"><pre id="codecell5"><span class="gp"></span>Successfully installed Tensorflow-gpu-2.8.0
 </div></div> 
 
-<h2>Step11. Can you confirm if Keras is installed.</h2>
+<h2>Step11. You need to install the Keras suite using pip.</h2>
 You need to open your terminal/command prompt and enter the following commands:
     <div class="highlight-doscon notranslate"><div class="highlight"><pre id="codecell5"><span class="gp"></span>pip install Keras</div></div>
         
@@ -142,7 +142,7 @@ Your computer will tell you where your Keras is installed.
 Requirement already satisfied: keras in c:\users\pmcn\appdata\local\programs\python\python39\lib\site-packages (2.8.0)
 </div></div> 
     
-<h2>Step12. Can you confirm if pandas is installed.</h2>
+<h2>Step12. You need to install the pandas suite using pip.</h2>
 <p>pandas is a software library written for the Python programming language for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series.</p>
 You need to open your terminal/command prompt and enter the following commands:
     <div class="highlight-doscon notranslate"><div class="highlight"><pre id="codecell5"><span class="gp"></span>pip install pandas</div></div>
@@ -151,7 +151,7 @@ You will get a success response, which means you have successfully installed.
 <div class="highlight-doscon notranslate"><div class="highlight"><pre id="codecell5"><span class="gp"></span>Successfully installed pandas-1.4.2 python-dateutil-2.8.2 pytz-2022.1
 </div></div> 
     
-<h2>Step13. Can you confirm if Scikit-learn is installed.</h2>
+<h2>Step13. You need to install the Scikit-learn suite using pip.</h2>
 <p>Scikit-learn (formerly scikits.learn and also known as sklearn)It features various classification, regression and clustering algorithms including support-vector machines, random forests, gradient boosting, k-means and DBSCAN, and is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy.</p>
 You need to open your terminal/command prompt and enter the following commands:
     <div class="highlight-doscon notranslate"><div class="highlight"><pre id="codecell5"><span class="gp"></span>pip install -U scikit-learn</div></div>
@@ -160,7 +160,7 @@ You will get a success response, which means you have successfully installed.
 <div class="highlight-doscon notranslate"><div class="highlight"><pre id="codecell5"><span class="gp"></span>Successfully installed joblib-1.1.0 scikit-learn-1.0.2 threadpoolctl-3.1.0
 </div></div> 
     
-<h2>Step14. Can you confirm if matplotlib is installed.</h2>
+<h2>Step14. You need to install the matplotlib suite using pip.</h2>
 <p>Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy. It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits like Tkinter, wxPython, Qt, or GTK.</p>
 You need to open your terminal/command prompt and enter the following commands:
     <div class="highlight-doscon notranslate"><div class="highlight"><pre id="codecell5"><span class="gp"></span>pip install -U Scikit-learn</div></div>
