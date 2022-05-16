@@ -84,14 +84,7 @@ You need to open your terminal/command prompt and enter the following commands:
     <div class="highlight-doscon notranslate"><div class="highlight"><pre id="codecell5"><span class="gp"></span>pip install cuda-python</div></div>
         
 You will get a success response, which means you have successfully installed.
-<div class="highlight-doscon notranslate"><div class="highlight"><pre id="codecell5"><span class="gp"></span>Collecting cuda-python
-  Downloading cuda_python-11.6.1-cp39-cp39-win_amd64.whl (7.1 MB)
-     ---------------------------------------- 7.1/7.1 MB 5.0 MB/s eta 0:00:00
-Collecting cython
-  Downloading Cython-0.29.28-py2.py3-none-any.whl (983 kB)
-     ---------------------------------------- 983.8/983.8 KB 60.8 MB/s eta 0:00:00
-Installing collected packages: cython, cuda-python
-Successfully installed cuda-python-11.6.1 cython-0.29.28
+<div class="highlight-doscon notranslate"><div class="highlight"><pre id="codecell5"><span class="gp"></span>Successfully installed cuda-python-11.6.1 cython-0.29.28
 </div></div>  
     
 <h2>Step7. You need to install the cudnn suite using pip.</h2>
