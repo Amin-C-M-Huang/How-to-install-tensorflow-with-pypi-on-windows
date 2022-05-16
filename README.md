@@ -133,7 +133,7 @@ You will get a success response, which means you have successfully installed.
 <div class="highlight-doscon notranslate"><div class="highlight"><pre id="codecell5"><span class="gp"></span>Successfully installed Tensorflow-gpu-2.8.0
 </div></div> 
 
-<h2>Step11. You need to install the Keras suite using pip.</h2>
+<h2>Step11.Can you confirm if Keras is installed.</h2>
 You need to open your terminal/command prompt and enter the following commands:
     <div class="highlight-doscon notranslate"><div class="highlight"><pre id="codecell5"><span class="gp"></span>pip install Keras</div></div>
         
