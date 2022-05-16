@@ -1,5 +1,5 @@
 # How-to-install-tensorflow-with-pypi-on-windows
-The introduction on the market is generally to install tensorflow on jupyter, which requires the installation of many application suites (for example: cuda, numpy, scipy, cudnn, ....), the introduction here only needs to install the latest version of python that supports Tensorflow, you can run Tensorflow And Tensorflow-gpu, I hope it will help friends who want to try running machine learning on python, let's get started!
+The introduction on the market is generally to run tensorflow on jupyter, which requires the installation of many application suites (for example: cuda, numpy, scipy, cudnn, ....), the introduction here only needs to install the latest version of python that supports Tensorflow, you can run Tensorflow And Tensorflow-gpu, I hope it will help friends who want to try running machine learning on python, let's get started!
 
 
 <h2>Step1. You need to install python software.</h2>
@@ -159,8 +159,6 @@ You need to open your terminal/command prompt and enter the following commands:
     <div class="highlight-doscon notranslate"><div class="highlight"><pre id="codecell5"><span class="gp"></span>pip install -U Scikit-learn</div></div>
         
 You will get a success response, which means you have successfully installed.
-<div class="highlight-doscon notranslate"><div class="highlight"><pre id="codecell5"><span class="gp"></span>Successfully installed cycler-0.11.0 fonttools-4.33.3 kiwisolver-1.4.2 matplotlib-3.5.2 packaging-21.3 pillow-9.1.0 pyparsing-3.0.8
-</div></div> 
 <div class="highlight-doscon notranslate"><div class="highlight"><pre id="codecell5"><span class="gp"></span>Successfully installed cycler-0.11.0 fonttools-4.33.3 kiwisolver-1.4.2 matplotlib-3.5.2 packaging-21.3 pillow-9.1.0 pyparsing-3.0.8
 </div></div> 
 <h3>Above, done!!</h3>
