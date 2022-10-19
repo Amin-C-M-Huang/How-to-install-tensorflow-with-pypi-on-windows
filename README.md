@@ -85,6 +85,7 @@ Then add the following environment variables:<br>
         <li>3. C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\libnvvp</li>
         <li>4. C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\include</li>
     </ul>
+Then you need to restart your computer.<br>
 <h2>Step5. Install the Tensorflow-gpu suite using pip.</h2>
 You need to open your terminal/command prompt and enter the following commands:
     <div class="highlight-doscon notranslate"><div class="highlight"><pre id="codecell5"><span class="gp"></span>pip install Tensorflow-gpu</div></div>
@@ -93,8 +94,8 @@ You will get a success response, which means you have successfully installed.
 <div class="highlight-doscon notranslate"><div class="highlight"><pre id="codecell5"><span class="gp"></span>Successfully installed Tensorflow-gpu-2.8.0
 </div></div> 
 
-
-    
+Then you can start writing the program.<br><br>
+If you want to make sure that you have installed it successfully, you can open the work administrator to confirm if the graphics card is working when running your program.    <br>
 
     
 
