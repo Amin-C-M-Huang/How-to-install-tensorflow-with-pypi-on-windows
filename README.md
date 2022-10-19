@@ -70,15 +70,15 @@ The GPU environment requires two kits to be downloaded:
 Before downloading, you will need to go to the <a class="reference external" href="https://www.tensorflow.org/install/source_windows">Tensorflow</a> website to confirm the version.
     
 <img width="1000" alt="tensorflow-gpu" src="https://user-images.githubusercontent.com/97797926/196614532-8f7387ba-c5e9-48ca-ba7e-6c65d53073e4.png">
-For CUDA packages we install version 11.2.
-For the Cudnn package, we install version 8.1.
-After the cudnn package is downloaded, extract the files.
-Copy the extracted file to the following path:
-    C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2
-Replace the archive under the path.
-Next we need to add the path on the computer. 
-Open PC settings->system->concerning->Advanced system settings->Advanced->environment variable->User variables->Path
-Then add the following environment variables:
+For CUDA packages we install version 11.2.<br>
+For the Cudnn package, we install version 8.1.<br>
+After the cudnn package is downloaded, extract the files.<br>
+Copy the extracted file to the following path:<br>
+    C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2<br>
+Replace the archive under the path.<br>
+Next we need to add the path on the computer. <br>
+Open PC settings->system->concerning->Advanced system settings->Advanced->environment variable->User variables->Path<br>
+Then add the following environment variables:<br>
     <ul>
         <li>1. C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\bin</li>
         <li>2. C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\lib\x64</li>
