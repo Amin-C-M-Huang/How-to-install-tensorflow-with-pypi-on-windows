@@ -57,8 +57,7 @@ The GPU environment requires two kits to be downloaded:
         <li>2. <a class="reference external" href="https://developer.nvidia.com/cudnn">Cudnn</a></li>
     </ul>
 Before downloading, you will need to go to the <a class="reference external" href="https://www.tensorflow.org/install/source_windows">Tensorflow</a> website to confirm the version.
-<img width="1232" alt="截圖 2022-05-16 下午9 11 33" src="C:\Users\NUTN-WMNSA-1\Desktop\ten-gpu.png")
-https://user-images.githubusercontent.com/97797926/168602516-e0d70f91-2554-4c29-9135-44b7bc89916d.png">
+<img width="1232" alt="ten-gpu" src="C:\Users\NUTN-WMNSA-1\Desktop\ten-gpu.png")https://user-images.githubusercontent.com/97797926/168602516-e0d70f91-2554-4c29-9135-44b7bc89916d.png">
     
 <h2>Step4. You need to install the Tensorflow-gpu suite using pip.</h2>
 You need to open your terminal/command prompt and enter the following commands:
