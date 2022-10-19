@@ -54,9 +54,9 @@ The introduction on the market is generally to run tensorflow on jupyter, the in
 The GPU environment requires two kits to be downloaded:
     <ul>
         <li>1. <a class="reference external" href="https://developer.nvidia.com/cuda-toolkit">CUDA</a></li>
-        <li>2. <a class="reference external" href="https://developer.nvidia.com/cudnn">CUDA</a></li>
+        <li>2. <a class="reference external" href="https://developer.nvidia.com/cudnn">Cudnn</a></li>
     </ul>
-
+Before downloading, you will need to go to the <a class="reference external" href="https://www.tensorflow.org/install/source_windows">Tensorflow</a> website to confirm the version.
     
 <h2>Step4. You need to install the Tensorflow-gpu suite using pip.</h2>
 You need to open your terminal/command prompt and enter the following commands:
