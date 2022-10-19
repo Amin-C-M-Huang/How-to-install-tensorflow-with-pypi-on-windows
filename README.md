@@ -52,8 +52,8 @@ The introduction on the market is generally to run tensorflow on jupyter, the in
 
 <h2>Step3. Install the gpu environment.</h2>
 The GPU environment requires two kits to be downloaded:
-    <li>1. CUDA</li>
-    <li>2. Cudnn</li>
+    <ul><li>1. CUDA</li>
+        <li>2. Cudnn</li></ul>
 
     
 <h2>Step4. You need to install the Tensorflow-gpu suite using pip.</h2>
