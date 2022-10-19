@@ -58,7 +58,7 @@ Here you can see that the Python version supported by Tensorflow is 3.7-3.10.
 Let's download <a class="reference external" href="https://www.python.org/downloads/">Python version 3.8</a> in case some packages don't work.
 Pay attention to check Add Python 3.8 to PATH when installing. 
 <img width="500" alt="python" src="https://user-images.githubusercontent.com/97797926/196619455-8cbfbdec-6b0a-44b5-896d-7c19288ee405.png">
-
+The other steps will continue.
     
     
 <h2>Step4. Install the GPU kit.</h2>
@@ -71,8 +71,20 @@ Before downloading, you will need to go to the <a class="reference external" hre
     
 <img width="1000" alt="tensorflow-gpu" src="https://user-images.githubusercontent.com/97797926/196614532-8f7387ba-c5e9-48ca-ba7e-6c65d53073e4.png">
 For CUDA packages we install version 11.2.
+For the Cudnn package, we install version 8.1.
+After the cudnn package is downloaded, extract the files.
+Copy the extracted file to the following path:
+    C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2
+Replace the archive under the path.
+Next we need to add the path on the computer. 
+Open PC settings->system->concerning->Advanced system settings->Advanced->environment variable->User variables->Path
+Then add the following environment variables:
+    1. C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\bin
+    2. C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\lib\x64
+    3. C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\libnvvp
+    4. C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\include
     
-<h2>Step5. You need to install the Tensorflow-gpu suite using pip.</h2>
+<h2>Step5. Install the Tensorflow-gpu suite using pip.</h2>
 You need to open your terminal/command prompt and enter the following commands:
     <div class="highlight-doscon notranslate"><div class="highlight"><pre id="codecell5"><span class="gp"></span>pip install Tensorflow-gpu</div></div>
         
