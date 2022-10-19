@@ -79,11 +79,12 @@ Replace the archive under the path.
 Next we need to add the path on the computer. 
 Open PC settings->system->concerning->Advanced system settings->Advanced->environment variable->User variables->Path
 Then add the following environment variables:
-    1. C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\bin
-    2. C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\lib\x64
-    3. C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\libnvvp
-    4. C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\include
-    
+    <ul>
+        <li>1. C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\bin</li>
+        <li>2. C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\lib\x64</li>
+        <li>3. C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\libnvvp</li>
+        <li>4. C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\include</li>
+    </ul>
 <h2>Step5. Install the Tensorflow-gpu suite using pip.</h2>
 You need to open your terminal/command prompt and enter the following commands:
     <div class="highlight-doscon notranslate"><div class="highlight"><pre id="codecell5"><span class="gp"></span>pip install Tensorflow-gpu</div></div>
