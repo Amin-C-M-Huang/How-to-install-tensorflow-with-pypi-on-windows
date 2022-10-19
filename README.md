@@ -57,8 +57,8 @@ The other steps will continue.<br>
 <h2>Step3. Install the GPU kit.</h2>
 The GPU environment requires two kits to be downloaded:<br>
     <ul>
-        <li>1. <a class="reference external" href="https://developer.nvidia.com/cuda-toolkit">CUDA</a></li>
-        <li>2. <a class="reference external" href="https://developer.nvidia.com/cudnn">Cudnn</a></li>
+        <li><a class="reference external" href="https://developer.nvidia.com/cuda-toolkit">CUDA</a></li>
+        <li><a class="reference external" href="https://developer.nvidia.com/cudnn">Cudnn</a></li>
     </ul>
 Before downloading, you will need to go to the <a class="reference external" href="https://www.tensorflow.org/install/source_windows">Tensorflow</a> website to confirm the version.<br>
     
@@ -73,10 +73,10 @@ Next we need to add the path on the computer. <br>
 Open PC settings->system->concerning->Advanced system settings->Advanced->environment variable->User variables->Path<br>
 Then add the following environment variables:<br>
     <ul>
-        <li>1. C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\bin</li>
-        <li>2. C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\lib\x64</li>
-        <li>3. C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\libnvvp</li>
-        <li>4. C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\include</li>
+        <li>C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\bin</li>
+        <li>C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\lib\x64</li>
+        <li>C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\libnvvp</li>
+        <li>C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\include</li>
     </ul>
 Then you need to restart your computer.<br>
     
