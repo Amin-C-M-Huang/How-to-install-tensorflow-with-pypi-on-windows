@@ -57,7 +57,7 @@ Before downloading, you will need to go to the <a class="reference external" hre
 Here you can see that the Python version supported by Tensorflow is 3.7-3.10.
 Let's download <a class="reference external" href="https://www.python.org/downloads/">Python version 3.8</a> in case some packages don't work.
 Pay attention to check Add Python 3.8 to PATH when installing. 
-<img width="500" alt="python" src="https://user-images.githubusercontent.com/97797926/196617890-708f89c3-1b77-436e-aea9-6e59362fe9db.jpg">
+<img width="500" alt="python" src="https://user-images.githubusercontent.com/97797926/196619455-8cbfbdec-6b0a-44b5-896d-7c19288ee405.png">
 
     
     
@@ -70,7 +70,7 @@ The GPU environment requires two kits to be downloaded:
 Before downloading, you will need to go to the <a class="reference external" href="https://www.tensorflow.org/install/source_windows">Tensorflow</a> website to confirm the version.
     
 <img width="1000" alt="tensorflow-gpu" src="https://user-images.githubusercontent.com/97797926/196614532-8f7387ba-c5e9-48ca-ba7e-6c65d53073e4.png">
-  
+For CUDA packages we install version 11.2.
     
 <h2>Step5. You need to install the Tensorflow-gpu suite using pip.</h2>
 You need to open your terminal/command prompt and enter the following commands:
