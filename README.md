@@ -53,19 +53,8 @@ The other steps will continue.<br>
     You will get a success response, which means you have successfully installed.
 <div class="highlight-doscon notranslate"><div class="highlight"><pre id="codecell5"><span class="gp"></span>Successfully installed pip-22.0.4 wheel-0.37.1
 </div></div>
-
-<h2>Step3. Install Python.</h2><br>
-Before downloading, you will need to go to the <a class="reference external" href="https://www.tensorflow.org/install/source_windows">Tensorflow</a> website to confirm the version.<br>
     
-<img width="1000" alt="tensorflow-gpu" src="https://user-images.githubusercontent.com/97797926/196614532-8f7387ba-c5e9-48ca-ba7e-6c65d53073e4.png">
-Here you can see that the Python version supported by Tensorflow is 3.7-3.10.<br>
-Let's download <a class="reference external" href="https://www.python.org/downloads/">Python version 3.8</a> in case some packages don't work.
-Pay attention to check Add Python 3.8 to PATH when installing. 
-<img width="500" alt="python" src="https://user-images.githubusercontent.com/97797926/196619455-8cbfbdec-6b0a-44b5-896d-7c19288ee405.png">
-The other steps will continue.
-    
-    
-<h2>Step4. Install the GPU kit.</h2>
+<h2>Step3. Install the GPU kit.</h2>
 The GPU environment requires two kits to be downloaded:<br>
     <ul>
         <li>1. <a class="reference external" href="https://developer.nvidia.com/cuda-toolkit">CUDA</a></li>
@@ -90,7 +79,8 @@ Then add the following environment variables:<br>
         <li>4. C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.2\include</li>
     </ul>
 Then you need to restart your computer.<br>
-<h2>Step5. Install the Tensorflow-gpu suite using pip.</h2>
+    
+<h2>Step4. Install the Tensorflow-gpu suite using pip.</h2>
 You need to open your terminal/command prompt and enter the following commands:
     <div class="highlight-doscon notranslate"><div class="highlight"><pre id="codecell5"><span class="gp"></span>pip install Tensorflow-gpu</div></div>
         
