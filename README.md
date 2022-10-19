@@ -56,8 +56,9 @@ Before downloading, you will need to go to the <a class="reference external" hre
 <img width="1000" alt="tensorflow-gpu" src="https://user-images.githubusercontent.com/97797926/196614532-8f7387ba-c5e9-48ca-ba7e-6c65d53073e4.png">
 Here you can see that the Python version supported by Tensorflow is 3.7-3.10.
 Let's download <a class="reference external" href="https://www.python.org/downloads/">Python version 3.8</a> in case some packages don't work.
-  
-    
+Pay attention to check Add Python 3.8 to PATH when installing. 
+<img width="500" alt="python" src="https://user-images.githubusercontent.com/97797926/196617890-708f89c3-1b77-436e-aea9-6e59362fe9db.jpg">
+
     
     
 <h2>Step4. Install the GPU kit.</h2>
