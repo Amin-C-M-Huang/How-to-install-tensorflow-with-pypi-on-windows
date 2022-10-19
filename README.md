@@ -50,8 +50,8 @@ The introduction on the market is generally to run tensorflow on jupyter, the in
 <div class="highlight-doscon notranslate"><div class="highlight"><pre id="codecell5"><span class="gp"></span>Successfully installed pip-22.0.4 wheel-0.37.1
 </div></div>
 
-<h2>Step3. Install Python.</h2>
-Before downloading, you will need to go to the <a class="reference external" href="https://www.tensorflow.org/install/source_windows">Tensorflow</a> website to confirm the version.
+<h2>Step3. Install Python.</h2><br>
+Before downloading, you will need to go to the <a class="reference external" href="https://www.tensorflow.org/install/source_windows">Tensorflow</a> website to confirm the version.<br>
     
 <img width="1000" alt="tensorflow-gpu" src="https://user-images.githubusercontent.com/97797926/196614532-8f7387ba-c5e9-48ca-ba7e-6c65d53073e4.png">
 Here you can see that the Python version supported by Tensorflow is 3.7-3.10.
@@ -62,12 +62,12 @@ The other steps will continue.
     
     
 <h2>Step4. Install the GPU kit.</h2>
-The GPU environment requires two kits to be downloaded:
+The GPU environment requires two kits to be downloaded:<br>
     <ul>
         <li>1. <a class="reference external" href="https://developer.nvidia.com/cuda-toolkit">CUDA</a></li>
         <li>2. <a class="reference external" href="https://developer.nvidia.com/cudnn">Cudnn</a></li>
     </ul>
-Before downloading, you will need to go to the <a class="reference external" href="https://www.tensorflow.org/install/source_windows">Tensorflow</a> website to confirm the version.
+Before downloading, you will need to go to the <a class="reference external" href="https://www.tensorflow.org/install/source_windows">Tensorflow</a> website to confirm the version.<br>
     
 <img width="1000" alt="tensorflow-gpu" src="https://user-images.githubusercontent.com/97797926/196614532-8f7387ba-c5e9-48ca-ba7e-6c65d53073e4.png">
 For CUDA packages we install version 11.2.<br>
