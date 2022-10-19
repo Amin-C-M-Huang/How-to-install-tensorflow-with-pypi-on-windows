@@ -1,4 +1,4 @@
-# How-to-install-tensorflow-with-pypi-on-windows
+# How to install tensorflow with pypi on windows
 The introduction on the market is generally to run tensorflow on jupyter, which requires the installation of many application suites (for example: cuda, numpy, scipy, cudnn, ....), the introduction here only needs to install the latest version of python that supports Tensorflow, you can run Tensorflow And Tensorflow-gpu, I hope it will help friends who want to try running machine learning on python, let's get started!
 
 
