@@ -3,10 +3,14 @@ The introduction on the market is generally to run tensorflow on jupyter, the in
 
 
 <h2>Step1. You need to install python software.</h2>
-    You need to go to the <a href="https://www.tensorflow.org/install">Tensorflow</a> official website to confirm the compatible version of Python. The following figure is an example to confirm that the compatible version of Python is 3.7–3.10. Here you can go to the official website of <a href="https://www.python.org/downloads/">Python</a> to download the highest compatible version. Here I downloaded Python 3.9.
+    Before downloading, you will need to go to the <a class="reference external" href="https://www.tensorflow.org/install/source_windows">Tensorflow</a> website to confirm the version.<br>
     
 <img width="1232" alt="截圖 2022-05-16 下午9 11 33" src="https://user-images.githubusercontent.com/97797926/168602516-e0d70f91-2554-4c29-9135-44b7bc89916d.png">
-
+Here you can see that the Python version supported by Tensorflow is 3.7-3.10.<br>
+Let's download <a class="reference external" href="https://www.python.org/downloads/">Python version 3.8</a> in case some packages don't work.<br>
+Pay attention to check Add Python 3.8 to PATH when installing. <br>
+<img width="500" alt="python" src="https://user-images.githubusercontent.com/97797926/196619455-8cbfbdec-6b0a-44b5-896d-7c19288ee405.png">
+The other steps will continue.<br>
 <h2>Step2. You need to install the pip suite.</h2>
 <p>pip is the <a class="reference external" href="https://packaging.python.org/guides/tool-recommendations/">package installer for Python</a>. You can use it to install packages from the <a class="reference external" href="https://pypi.org/">Python Package Index</a> and other indexes.</p>
     There are 2 mechanisms to install pip supported directly by pip’s maintainers:
