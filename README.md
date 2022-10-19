@@ -91,6 +91,8 @@ You will get a success response, which means you have successfully installed.
 Then you can start writing the program.<br><br>
 If you want to make sure that you have installed it successfully, you can open the work administrator to confirm if the graphics card is working when running your program.    <br>
 
+<h3>Above, done!!</h3>
+    
 <h4>Other kits I have used:</h4>
     <ul>
         <li>pandas</li>
@@ -99,6 +101,5 @@ If you want to make sure that you have installed it successfully, you can open t
         <li>sklearn</li>
     </ul>
 These can all be installed with pip.
-<h3>Above, done!!</h3>
 
 
