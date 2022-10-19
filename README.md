@@ -50,8 +50,13 @@ The introduction on the market is generally to run tensorflow on jupyter, the in
 <div class="highlight-doscon notranslate"><div class="highlight"><pre id="codecell5"><span class="gp"></span>Successfully installed pip-22.0.4 wheel-0.37.1
 </div></div>
 
+<h2>Step3. Install the gpu environment.</h2>
+The GPU environment requires two kits to be downloaded:
+    1. CUDA
+    2. Cudnn
 
-<h2>Step10. You need to install the Tensorflow-gpu suite using pip.</h2>
+    
+<h2>Step4. You need to install the Tensorflow-gpu suite using pip.</h2>
 You need to open your terminal/command prompt and enter the following commands:
     <div class="highlight-doscon notranslate"><div class="highlight"><pre id="codecell5"><span class="gp"></span>pip install Tensorflow-gpu</div></div>
         
