@@ -95,8 +95,6 @@ If you want to make sure that you have installed it successfully, you can open t
     <ul>
         <li>pandas</li>
         <li>sdv</li>
-        <li>ctgan</li>
-        <li>os</li>
         <li>matplotlib</li>
         <li>sklearn</li>
     </ul>
